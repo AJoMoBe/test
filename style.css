@@ -1,0 +1,57 @@
+body{
+	background: #B0B0B0;
+}
+header{
+	background: #145787;
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	color: #0EDEDA;
+	font-size:30px;
+	font-family: 'Pacifico', cursive;
+}
+ .image{
+ 	width: 1000px;
+ 	height: 200px;
+ 	background-image: url(https://pic.clubic.com/v1/images/1722804/raw?width=1200&fit=max&hash=3ea6d0be95f841879d810be8af5ecd5b1612b794);
+ 	background-size: cover;
+}
+.menu{
+	display: flex;
+	justify-content: space-around;
+	text-align: left;
+	font-size: 30px
+	color:#0EDEDA;
+	margin-right: 10px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+	
+h1{
+	text-align: center;
+	color: #145787;
+
+}
+h2{
+	text-align: center;
+	color: #0EDEDA;
+}
+p{
+	text-align: center;
+}
+footer{
+	background: #145787;
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	color: #0EDEDA;
+	font-size:30px;
+	font-family: 'Pacifico', cursive;
+}
+.reseaux{
+	margin-right: 20px;
+	text-align: left;
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: auto;
+	margin-top: auto;
+}
